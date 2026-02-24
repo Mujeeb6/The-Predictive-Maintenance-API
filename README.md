@@ -27,5 +27,5 @@ This project demonstrates the practical application of machine learning, RESTful
 
 **1. Clone the repository**
 ```bash
-git clone [https://github.com/YourUsername/Predictive-Maintenance-API.git](https://github.com/YourUsername/Predictive-Maintenance-API.git)
+git clone [https://github.com/Mujeeb6/The-Predictive-Maintenance-API.git](https://github.com/Mujeeb6/The-Predictive-Maintenance-API.git)
 cd Predictive-Maintenance-API
